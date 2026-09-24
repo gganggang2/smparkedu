@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Seongmin Park / Ph.D. Study"
+title                    : "Seongmin's Study Space"
 title_separator          : "-"
 name                     : &name "Seongmin Park"
 description              : &description "UCLA Quantitative Psychology Ph.D."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,8 +27,8 @@ author:
   name             : "Seongmin Park"
   pronouns         : # example: "she/her"  
   bio              : "Quantitative Psychology Ph.D."
-  location         : "Earth"
-  employer         : "University of California, Los Angeles"
+  location         : "Los Angeles, CA"
+  employer         : "UCLA"
   uri              : # URL
   email            : "smpark99@ucla.edu" 
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "gganggang2"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
