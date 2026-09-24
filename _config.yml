@@ -23,7 +23,7 @@ repository               : "gganggang2/smparkedu"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_sm.jpeg"
+  avatar           : Profile_sm.jpeg
   name             : "Seongmin Park"
   pronouns         : # example: "she/her"  
   bio              : "Quantitative Psychology Ph.D."
