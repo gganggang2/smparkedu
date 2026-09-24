@@ -13,9 +13,9 @@ title                    : "Seongmin Park / Ph.D. Study"
 title_separator          : "-"
 name                     : &name "Seongmin Park"
 description              : &description "UCLA Quantitative Psychology Ph.D."   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://smparkedu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://gganggang2.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/smparkedu" # the subpath of your site, e.g. "/blog"
 repository               : "gganggang2/smparkedu"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,12 +23,12 @@ repository               : "gganggang2/smparkedu"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_sm.jpeg"
+  avatar           : "/images/wiki/Profile_sm.jpeg"
   name             : "Seongmin Park"
   pronouns         : # example: "she/her"  
   bio              : "Quantitative Psychology Ph.D."
   location         : "Earth"
-  employer         : "University of California, Los Anegeles"
+  employer         : "University of California, Los Angeles"
   uri              : # URL
   email            : "smpark99@ucla.edu" 
 
