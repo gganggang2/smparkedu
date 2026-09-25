@@ -1,6 +1,6 @@
 ---
 title: "Portfolio will be continued soon"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "sorry I'm too lazy to upload this...<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
