@@ -1,7 +1,7 @@
 ---
 title: "MLPA using MplusAutomation"
 excerpt: "2025 KELS paper contest preparation <br/><img src='/images/500x300.png'>"
-collection: project
+collection: projects
 ---
 
 Seongmin Park
