@@ -1,0 +1,24 @@
+
+[[init]]
+iterators = classes;
+classes = 1:6;
+outputDirectory = "/Users/seongminpark/Desktop/KEMS/25-2/KELS/Analysis";
+filename = "SLPA_Analysis_class_[[classes]].inp";
+[[/init]]
+
+TITLE: SLPA_Analysis_class_[[classes]]
+DATA: FILE IS LPA_data.dat;
+
+VARIABLE: NAMES ARE 
+SID SCHID ex1-ex4 ac1-ac4
+ST_SEX !within covariates
+SC_REG; !between covariates
+USEVARIABLES = ex1-ex4 ac1-ac4;
+CLASSES = c([[classes]]);
+MISSING = all(-999);
+
+ANALYSIS: TYPE = MIXTURE;
+STARTS = 100 20;
+
+OUTPUT: TECH11 TECH14;
+
