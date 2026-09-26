@@ -1,5 +1,9 @@
-MLPA_KELS
-================
+---
+title: "MLPA using MplusAutomation"
+excerpt: "2025 KELS paper contest preparation <br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
 Seongmin Park
 2025-09-13
 
