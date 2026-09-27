@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+paperurl: 'https://gganggang2.github.io/smparkedu/files/CV_Seongmin Park_260926.pdf'
 author_profile: true
 redirect_from:
   - /resume
