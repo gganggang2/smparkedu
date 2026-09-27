@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="{{ site.baseurl }}/files/cv.pdf" class="btn btn--primary" target="_blank">Download Full CV (PDF)</a></p>
+
 Education
 ======
 * Ph.D in Quantitative Psychology, University of California, Los Angeles (UCLA), 2031 (expected)
