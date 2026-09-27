@@ -1,6 +1,6 @@
 ---
 title: "MLPA using MplusAutomation"
-excerpt: "2025 KELS paper contest preparation <br/><img src='../images/260831kcyps_image.png'>"
+excerpt: "2025 KELS paper contest preparation <br/><img src='../images/260831kcyps_image_mid.jpeg'>"
 collection: projects
 ---
 
