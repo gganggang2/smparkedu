@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Exploring Predictors of Students’ Mathematics Self-Efficacy Using glmmLasso: Evidence From South Korea and Singapore PISA 2022 Data"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2026-09-02-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2026-09-02
 venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Lee, M., Park, S., & Hong, S. (2026). &quot;Exploring Predictors of Students’ Mathematics Self-Efficacy Using glmmLasso: Evidence From South Korea and Singapore PISA 2022 Data. <i>Sage Open</i>. 16(3). https://doi.org/10.1177/21582440261475451'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+As artificial intelligence, science, and technology advance, mathematical self-efficacy for 21st-century reasoning tasks has become increasingly important. This study aimed to explore student- and school-level predictors of mathematics self-efficacy among 15-year-olds in South Korea and Singapore—two countries that rank high in mathematics achievement but differ in student self-efficacy as measured by the Programme for International Student Assessment (PISA) 2022. This study focused specifically on the newly released PISA 2022 self-efficacy scale, which assesses students’ mathematical reasoning and 21st-century mathematical tasks. To identify potential predictors of mathematics self-efficacy, we applied a variable selection approach using glmmLasso, a machine learning method that accounts for multilevel structure. The selected predictors were subsequently tested for statistical significance using multilevel linear models. A total of 108 predictors were considered, including 52 student- and 56 school-level variables. The results identified 14 student-level predictors associated with mathematics self-efficacy in both countries. Regarding country-specific predictors, seven student-level predictors were identified in South Korea, whereas in Singapore, two student- and two school-level predictors were identified. This study examined common and country-specific predictors of mathematics self-efficacy across the two countries and provided implications for its improvement.
