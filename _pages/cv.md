@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="{{ site.baseurl }}/files/CV_Seongmin Park_260926.pdf" class="btn btn--primary" target="_blank">Download Full CV (PDF)</a></p>
+<p><a href="../files/CV_Seongmin Park_260926.pdf" class="btn btn--primary" target="_blank">Download Full CV (PDF)</a></p>
 
 Education
 ======
